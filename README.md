@@ -1,2 +1,16 @@
-# index-html
-SERIO UUAAAAAAAAA
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>AluraPlus</title>.
+    <meta Charset="UTF-8">
+    <meta name="viewport" content="width-device-width, initial-scale=1">
+    <link rel="stylesheet" href="styles.css">"
+    
+
+
+
+
+
+
+</head>
